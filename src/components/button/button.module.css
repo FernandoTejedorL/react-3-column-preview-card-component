@@ -1,0 +1,29 @@
+.button {
+	height: 48px;
+	width: 146px;
+	background-color: #f2f2f2;
+	border-radius: 25px;
+	padding: 13px;
+	text-align: center;
+}
+
+@media (hover: hover) {
+	.button:hover {
+		border: 2px solid #fff;
+		color: #fff;
+		background-color: transparent;
+		padding: 11px;
+	}
+}
+
+.orange {
+	color: #e28625;
+}
+
+.blue {
+	color: #006971;
+}
+
+.green {
+	color: #004140;
+}

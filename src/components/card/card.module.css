@@ -1,0 +1,21 @@
+.card {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	gap: 35px;
+	height: 500px;
+	width: 307px;
+	padding: 48px;
+}
+
+.orange {
+	background-color: #e28625;
+}
+
+.blue {
+	background-color: #006971;
+}
+
+.green {
+	background-color: #004140;
+}
